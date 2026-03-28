@@ -89,8 +89,8 @@ This project demonstrates advanced AI engineering capabilities through a sophist
 ### 5. Monitoring & Observability
 
 **AgentOps Integration**:
-![AI-Generated Procurement Report](docs/gif/AgentOps-Monitring.gif)
-```
+
+![AgentOps Monitoring](docs/gif/AgentOps-Monitring.gif)
 
 **Tracked Metrics**:
 - Agent execution time
