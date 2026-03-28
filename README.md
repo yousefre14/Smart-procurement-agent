@@ -5,9 +5,6 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![AgentOps](https://img.shields.io/badge/Monitoring-AgentOps-purple.svg)](https://www.agentops.ai/)
 
-
-![AI-Generated Procurement Report](docs/images/procurement-report-demo.png)
-
 ## 🎯 Executive Summary
 
 This project demonstrates advanced AI engineering capabilities through a sophisticated multi-agent system built with CrewAI. The system automates the entire procurement research process—from generating intelligent search queries to producing comprehensive HTML procurement reports—showcasing expertise in:
@@ -25,6 +22,9 @@ This project demonstrates advanced AI engineering capabilities through a sophist
 - **Cost Optimization**: Identifies best value-for-money products across vendors
 - **Data-Driven Decisions**: Provides structured comparison reports with specifications
 - **Scalability**: Handles multiple products and platforms simultaneously
+
+  ![AI-Generated Procurement Report](docs/images/procurement-report-demo.png)
+
 
 ---
 
