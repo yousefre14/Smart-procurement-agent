@@ -90,7 +90,7 @@ This project demonstrates advanced AI engineering capabilities through a sophist
 
 **AgentOps Integration**:
 
-![AgentOps Monitoring](docs/gif/AgentOps-Monitring.gif)
+![AgentOps Monitring](docs/gif/AgentOps-Monitring.gif)
 
 **Tracked Metrics**:
 - Agent execution time
