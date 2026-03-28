@@ -89,7 +89,7 @@ This project demonstrates advanced AI engineering capabilities through a sophist
 ### 5. Monitoring & Observability
 
 **AgentOps Integration**:
-![AgentOps Monitring](docs/gifs/AgentOps_Monitring.gif)
+![AgentOps Monitring](docs/gif/AgentOps-Monitring.gif)
 ```
 
 **Tracked Metrics**:
