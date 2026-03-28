@@ -23,12 +23,12 @@ from tavily import TavilyClient
 from scrapegraph_py import Client
 import json
 
-os.environ["AGENTOPS_API_KEY"] = os.getenv("AGENTOPS_API_KEY", "53e09e27-d65d-4339-bc81-a8e94b6eb714")
-os.environ["GROQ_API_KEY"] = os.getenv("GROQ_API_KEY", "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")
+os.environ["AGENTOPS_API_KEY"] = os.getenv("AGENTOPS_API_KEY", "Your_Api_key")
+os.environ["GROQ_API_KEY"] = os.getenv("GROQ_API_KEY", "Your_Api_key")
 os.environ["OPENAI_API_KEY"] = "dummy-not-used"
 
 agentops.init(
-    api_key= "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",
+    api_key= "Your_Api_key",
     skip_auto_end_session = True,
     default_tags=['crewai']
 
@@ -44,8 +44,8 @@ basic_llm = LLM(
     max_tokens=4000,
 
 )
-search_client = TavilyClient(api_key="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")
-Scrape_client = Client(api_key="sgai-b78b7c9a-5dee-408d-a4a3-6291ce0b5b3e")
+search_client = TavilyClient(api_key="Your_Api_key")
+Scrape_client = Client(api_key="Your_Api_key")
 
 search_client.search("coffe machine site : amzon.eg")
 
